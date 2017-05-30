@@ -3,5 +3,4 @@ repo for exercese
 is a bad boy
 svetle
 ginev
-
-HELLO GINEV!
+hello!GINEV!
